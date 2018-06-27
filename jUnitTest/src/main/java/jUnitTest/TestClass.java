@@ -1,4 +1,4 @@
-package JUnitTest;
+package jUnitTest;
 
 public class TestClass {
 	public boolean test() {

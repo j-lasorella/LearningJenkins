@@ -1,6 +1,9 @@
-package JUnitTest;
+package jUnitTest;
 
 import org.junit.Test;
+
+import jUnitTest.TestClass;
+
 import static org.junit.Assert.*;
 
 public class TestClassTester {
