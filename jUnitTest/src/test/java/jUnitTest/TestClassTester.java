@@ -11,6 +11,6 @@ public class TestClassTester {
 	
 	@Test
 	public void test2() {
-		assertEquals("Should return false", false, (new TestClass()).test());
+		assertEquals("Should return false", false, (new TestClass()).test2());
 	}
 }
